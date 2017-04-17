@@ -1,0 +1,16 @@
+{
+  "name": "koa-sdf",
+  "version": "1.0.0-0",
+  "description": "koa static serve",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "*",
+    "mime-types": "~2.1.8",
+    "mz": "~2.4.0"
+  }
+}
