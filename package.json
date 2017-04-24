@@ -1,8 +1,8 @@
 {
   "name": "koa-sdf",
-  "version": "1.0.0",
+  "version": "1.1.0-0",
   "description": "koa static serve",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +12,14 @@
     "debug": "*",
     "mime-types": "~2.1.8",
     "mz": "~2.4.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImHype/koa-sdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ImHype/koa-sdf/issues"
+  },
+  "homepage": "https://github.com/ImHype/koa-sdf#readme"
 }
